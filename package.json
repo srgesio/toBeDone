@@ -1,0 +1,23 @@
+{
+  "name": "to_be_done",
+  "version": "1.0.0",
+  "description": "Sistema de guardar ideias de projetos realizáveis baseadas no framework JTBD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srgesio/toBeDone.git"
+  },
+  "keywords": [],
+  "author": "Gésio de Moura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srgesio/toBeDone/issues"
+  },
+  "homepage": "https://github.com/srgesio/toBeDone#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
