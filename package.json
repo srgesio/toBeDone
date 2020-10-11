@@ -1,5 +1,5 @@
 {
-  "name": "to_be_done",
+  "name": "toBeDone",
   "version": "1.0.0",
   "description": "Sistema de guardar ideias de projetos realizáveis baseadas no framework JTBD",
   "main": "index.js",
