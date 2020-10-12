@@ -2,9 +2,9 @@
   "name": "tobedone",
   "version": "1.0.0",
   "description": "Sistema de guardar ideias de projetos realizáveis baseadas no framework JTBD",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,8 @@
   "dependencies": {
     "express": "^4.17.1",
     "mongoose": "^5.10.9"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
   }
 }
